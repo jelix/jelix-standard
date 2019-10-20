@@ -23,7 +23,7 @@ Create a directory and a composer.json file :
     "name": "me/my-project",
     "require": {
         "php": ">=5.6",
-        "jelix/jelix-standard": "1.7.0-rc.1"
+        "jelix/jelix-standard": "^1.7.2"
     }
 }
 ```
@@ -40,7 +40,7 @@ Documentation and community
 ===========================
 
 There is a full manual to learn Jelix. You can read it 
-[direcly on the website](https://docs.jelix.org/en/manual-1.7).
+[directly on the website](https://docs.jelix.org/en/manual-1.7).
 
 You can ask your questions [on the forum](https://jelix.org/forums/forum/cat/2-english) or
 on our IRC Channel, #jelix, on the irc.freenode.net network.
