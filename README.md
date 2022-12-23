@@ -23,7 +23,7 @@ Create a directory and a composer.json file :
     "name": "me/my-project",
     "require": {
         "php": ">=5.6",
-        "jelix/jelix-standard": "~1.7.11"
+        "jelix/jelix-standard": "~1.7.12"
     }
 }
 ```
