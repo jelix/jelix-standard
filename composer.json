@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=8.2",
         "jelix/jelix": "dev-master",
         "jelix/feeds-module": "2.0.x-dev",
         "jelix/wikirenderer-plugin": "^1.7.2"
@@ -26,7 +26,8 @@
     "extra": {
         "branch-alias": {
             "dev-master": "2.0-dev",
-            "dev-jelix-1.7.x": "1.7-dev"
+            "dev-jelix-1.7.x": "1.7-dev",
+            "dev-jelix-1.8.x": "1.8-dev"
         }
     }
 }
