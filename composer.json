@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "jelix/jelix": "1.8.1",
+        "jelix/jelix": "1.8.3",
         "jelix/feeds-module": "~1.7.5",
         "jelix/wikirenderer-plugin": "~1.7.2"
     },
