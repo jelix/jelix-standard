@@ -5,7 +5,7 @@ Jelix is an open-source framework for PHP. Jelix 1.7 is compatible from PHP 5.6 
 It has a modular, extensible architecture. Applications based on Jelix are made with
 modules, which allow to reuse features in several projects.
 
-For more informations, read [details about its features](https://jelix.org/articles/en/features).
+For more information, read [details about its features](https://jelix.org/articles/en/features).
 
 
 **This package, `jelix/jelix-standard`, is a distribution of Jelix with standard components**. 
@@ -23,7 +23,7 @@ Create a directory and a composer.json file :
     "name": "me/my-project",
     "require": {
         "php": ">=7.4",
-        "jelix/jelix-standard": "~1.7.17"
+        "jelix/jelix-standard": "~1.7.18"
     }
 }
 ```
