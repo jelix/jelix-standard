@@ -23,7 +23,7 @@ Create a directory and a composer.json file :
     "name": "me/my-project",
     "require": {
         "php": ">=7.4",
-        "jelix/jelix-standard": "~1.8.22"
+        "jelix/jelix-standard": "~1.8.23"
     }
 }
 ```
@@ -48,8 +48,4 @@ on our IRC Channel, #jelix, on the irc.freenode.net network.
 Contribution & development
 ===========================
 
-If you want to contribute, you can use the provided Vagrant configuration
-which install all what is needed to run and test Jelix, and launch unit tests. See the
-testapp/README.md file in the repository.
-
-Fill issues on Github https://github.com/jelix/jelix/.
+To contribute, see the repository on Github https://github.com/jelix/jelix/.
